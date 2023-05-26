@@ -12,4 +12,7 @@ Combine nuclei foci: the input is a folder with DAPI segment, one with 53BP1 foc
 
 Foci analysis: this Fiji macro uses the multichannel images of the nuclei and foci segmentation to improve the segmentations of the nuclei (hole filling and size exclusion) and analyze the number of foci and foci properties. These are saved in csv files.
 
+
+The weigths for the segmentation model can be shared on request (i.lauwers@erasmusmc.nl).
+
 If you have any questions please contact Iris Lauwers: i.lauwers@erasmusmc.nl
